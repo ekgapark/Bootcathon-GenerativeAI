@@ -1,0 +1,9 @@
+pypdf
+azure-identity
+azure-search-documents==11.4b9
+azure-ai-formrecognizer
+azure-storage-blob
+pandas
+python-dotenv
+openai
+streamlit
